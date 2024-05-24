@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contract</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .contract-text {
+            margin-bottom: 20px;
+        }
+        .signature-field {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .signature {
+            font-family: cursive;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Contract</h1>
+
+<p class="contract-text">Welcome to my practice. This document contains important information about my professional services and business policies. Please read it carefully and jot down any questions you might have so that we can discuss them at our next meeting. When you sign this document, it will represent an agreement between us.</p>
+
+<h2>PSYCHOLOGICAL SERVICES</h2>
+<p class="contract-text">Psychotherapy is not easily described in general statements. It varies depending on the personalities of the psychologist and patient, and the particular problems you bring forward. There are many different methods I may use to deal with the problems that you hope to address. Psychotherapy is not like a medical doctor visit. Instead, it calls for a very active effort on your part. In order for the therapy to be most successful, you will have to work on things we talk about both during our sessions and at home.</p>
+
+<p class="contract-text">Psychotherapy can have benefits and risks. Since therapy often involves discussing unpleasant aspects of your life, you may experience uncomfortable feelings like sadness, guilt, anger, frustration, loneliness and helplessness. On the other hand, psychotherapy has also been shown to have benefits for people who go through it. Therapy often leads to better relationships, solutions to specific problems, and significant reductions in feelings of distress. But there are no guarantees of what you will experience.</p>
+
+<p class="contract-text">Our first few sessions will involve an evaluation of your needs. By the end of the evaluation, I will be able to offer you some first impressions of what our work will include and a treatment plan to follow, if you decide to continue with therapy. You should evaluate this information along with your own opinions of whether you feel comfortable working with me. Therapy sometimes involves a large commitment of time, money, and energy, so you should be very careful about the therapist you select. If you have questions about my procedures, we should discuss them whenever they arise. If your doubts persist, I will be happy to help you set up a meeting with another mental health professional for a second opinion.</p>
+
+<h2>MEETINGS</h2>
+<p class="contract-text">I normally conduct an evaluation that will last from 1 to 4 sessions. During this time, we can both decide if I am the best person to provide the services you need in order to meet your treatment goals. If psychotherapy begins, I will usually schedule one 45-minute session (one appointment hour of 45 minutes duration) per week at a time we agree on, although some sessions may be longer or more frequent. Once an appointment hour is scheduled, you will be expected to pay for it unless you provide 24 hours advance notice of cancellation. If it is possible, I will try to find another time to reschedule the appointment, though I cannot guarantee this.</p>
+
+<h2>PROFESSIONAL FEES</h2>
+<p class="contract-text">My hourly fee is $100 for individual therapy and $120 for couples therapy. This fee increases once annually. In addition to weekly appointments, I charge this amount for other professional services you may need, though I will break down the hourly cost if I work for periods of less than one hour. Other services include report writing, extended telephone conversations, attendance at meetings with other professionals you have authorized, preparation of records or treatment summaries, and the time spent performing any other service you may request of me. If you become involved in legal proceedings that require my participation, you will be expected to pay for my professional time even if I am called to testify by another party. Because of the difficult legal involvement, I charge significantly more per hour for preparation and attendance at any legal proceeding.</p>
+
+<h2>BILLING AND PAYMENTS</h2>
+<p class="contract-text">You will be expected to pay for each session at the time it is held, unless we agree otherwise or unless you have insurance coverage, which requires another arrangement. Payment schedules for other professional services will be agreed to when they are requested. In circumstances of unusual financial hardship, I may be willing to negotiate a fee adjustment or payment installment plan.</p>
+
+<p class="contract-text">If your account has not been paid for more than 60 days and arrangements for payment have not been agreed upon, I have the option of using legal means to secure the payment. This may involve hiring a collection agency or going through a small claims court. If such legal action is necessary, its costs will be included in the claim. In most collection situations, the only information I release regarding a patient’s treatment is their name, the nature of services provided, and the amount due.</p>
+
+<h2>INSURANCE REIMBURSEMENT</h2>
+<p class="contract-text">In order for us to set realistic treatment goals and priorities, it is important to evaluate what resources you have available to pay for your treatment. If you have a health insurance policy, it will usually, but not always, provide some coverage for mental health treatment. I can help you receive the benefits to which you are entitled, however, you (and not your insurance company) are responsible for full payment of my fees. It is very important that you find out exactly what mental health services your insurance policy covers. If I am a panel provider for your insurance you may be eligible for a discount.</p>
+
+<p class="contract-text">You should also be aware that most insurance companies require you to authorize me to provide them with a clinical diagnosis. Sometimes I have to provide additional clinical information such as treatment plans or summaries, or copies of the entire record (in rare cases). This information will become part of the insurance company files and will probably be stored in a computer. Though all insurance companies claim to keep such information confidential, I have no control over what they do with it once it is in their hands. In some cases, they may share the information with a national medical information database.</p>
+
+<p class="contract-text">Once we have all of the information about your insurance coverage, we will discuss what we can expect to accomplish with the benefits that are available and what will happen if they run out before you feel ready to end our sessions. It is important to remember that you always have the right to pay for my services yourself to avoid the problems described above, unless prohibited by contract.</p>
+
+<h2>CONTACTING ME</h2>
+<p class="contract-text">I am often not immediately available by telephone. When I am unavailable, my telephone is answered by voicemail that I monitor frequently, or by my office assistant. I will make every effort to return your call on the same day you make it, with the exception of weekends and holidays. If you are difficult to reach, please inform me of some times when you will be available. If you are unable to reach me and feel that you can't wait for me to return your call, contact your family physician or nearest emergency room and ask for the mental health professional on call. If I will be unavailable for an extended time, I will provide you with the name of a colleague to contact, if necessary.</p>
+
+<h2>CONFIDENTIALITY</h2>
+<p class="contract-text">In general, the privacy of all communications between a patient and a psychologist is protected by law, and I can only release information about our work to others with your written permission. But there are a few exceptions.</p>
+
+<p class="contract-text">In most legal proceedings, you have the right to prevent me from providing any information about your treatment. In some proceedings involving child custody and those in which your emotional condition is an important issue, a judge may order my testimony if he/she determines that the issues demand it.</p>
+
+<p class="contract-text">There are some situations in which I am legally obligated to take action to protect others from harm, even if I have to reveal some information about a patient’s treatment. For example, if I believe that a child is being abused, I may be required to file a report with the appropriate state agency.</p>
+
+<p class="contract-text">If I believe that a patient is threatening serious bodily harm to another, I may be required to take protective actions. These actions may include notifying the potential victim, contacting the police, or seeking hospitalization for the patient. If the patient threatens to harm himself/herself, I may be obligated to seek hospitalization for him/her or to contact family members or others who can help provide protection.</p>
+
+<p class="contract-text">These situations have rarely occurred in my practice. If a similar situation occurs, I will make every effort to fully discuss it with you before taking any action.</p>
+
+<p class="contract-text">I may occasionally find it helpful to consult other professionals about a case. During a consultation, I make every effort to avoid releasing the identity of my patient. The consultant is also legally bound to keep the information confidential. If you don’t object, I will not tell you about these consultations unless I feel that it is important to our work together.</p>
+
+<p class="contract-text">While this written summary of exceptions to confidentiality should prove helpful in informing you about potential problems, it is important that we discuss any questions or concerns that you may have at our next meeting. I will be happy to discuss these issues with you if you need specific advice, but formal legal advice may be needed because the laws governing confidentiality are quite complex, and I am not an attorney.</p>
+
+<p class="contract-text">Your signature below indicates that you have read the information in this document and agree to abide by its terms during our professional relationship.</p>
+
+<div class="signature-field">
+    <label for="client-name">Client Name:</label><br>
+    <input type="text" id="client-name" name="client-name" required><br><br>
+    
+    <label for="client-signature">Signature:</label><br>
+    <input type="text" id="client-signature" name="client-signature" class="signature" required><br><br>
+    
+    <label for="client-date">Date:</label><br>
+    <input type="date" id="client-date" name="client-date" required><br><br>
+</div>
+
+<div class="signature-field">
+    <label for="guardian">Guardian:</label><br>
+    <input type="text" id="guardian" name="guardian"><br><br>
+    
+    <label for="relationship">Relationship:</label><br>
+    <input type="text" id="relationship" name="relationship"><br><br>
+    
+    <label for="guardian-signature">Signature:</label><br>
+    <input type="text" id="guardian-signature" name="guardian-signature" class="signature"><br><br>
+    
+    <label for="guardian-date">Date:</label><br>
+    <input type="date" id="guardian-date" name="guardian-date"><br><br>
+</div>
+
+</body>
+</html>
